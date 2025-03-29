@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard</title>
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h2 style="text-align:center;">Leaderboard</h2>
+    <table>
+        <tr>
+            <th>Rank</th>
+            <th>Username</th>
+            <th>Total Score</th>
+        </tr>
+        {% for user in leaderboard %}
+        <tr>
+            <td>{{ user.rank }}</td>
+            <td>{{ user.username }}</td>
+            <td>{{ user.total_score }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

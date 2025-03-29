@@ -1,7 +1,7 @@
 import os
 import requests
 from dotenv import load_dotenv
-
+#to create users
 # Load environment variables
 load_dotenv()
 
@@ -37,7 +37,3 @@ def get_user_by_username(username):
     response = requests.get(url, headers=headers)
     print("Get User Response:", response.text)  # ✅ Debugging
     return response.json() if response.status_code == 200 else None
-
-# Debugging: Print loaded environment variables
-print("Database URL:", SUPABASE_URL)
-print("API Key:", SUPABASE_API_KEY)

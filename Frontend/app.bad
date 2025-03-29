@@ -1,0 +1,90 @@
+from flask import Flask, render_template, request, redirect, url_for, jsonify
+from supabase import create_client
+import os
+from dotenv import load_dotenv
+from datetime import datetime, timedelta
+
+# Load environment variables
+load_dotenv()
+
+app = Flask(__name__)
+
+# Supabase client setup
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_API_KEY = os.getenv("SUPABASE_API_KEY")
+supabase = create_client(SUPABASE_URL, SUPABASE_API_KEY)
+
+from datetime import datetime, timedelta
+
+@app.route('/matches')
+def get_matches():
+    """Fetches all matches from Supabase and processes them with IST conversion."""
+    if not SUPABASE_URL or not SUPABASE_API_KEY:
+        return jsonify({"error": "Supabase credentials are missing"}), 500
+
+    try:
+        # Fetch matches from the matches table
+        matches = supabase.table('matches').select('*').execute().data
+    except Exception as e:
+        return jsonify({"error": f"Failed to fetch matches: {e}"}), 500
+
+    # Convert time to IST (UTC+5:30)
+    IST_OFFSET = timedelta(hours=5, minutes=30)
+    now_utc = datetime.utcnow()
+    now_ist = now_utc + IST_OFFSET
+
+    # Define team colors
+    TEAM_COLORS = {
+        "Chennai Super Kings": "#FECB00",
+        "Mumbai Indians": "#045093",
+        "Royal Challengers Bengaluru": "#DA1818",
+        "Kolkata Knight Riders": "#3A225D",
+        "Sunrisers Hyderabad": "#FA761E",
+        "Rajasthan Royals": "#EA1A7C",
+        "Delhi Capitals": "#17449B",
+        "Punjab Kings": "#D71920",
+        "Lucknow Super Giants": "#004C93",
+        "Gujarat Titans": "#1C2C3B"
+    }
+
+    for match in matches:
+        try:
+            match_time = datetime.strptime(match['match_date'], "%Y-%m-%dT%H:%M:%S") + IST_OFFSET
+            time_diff = (match_time - now_ist).total_seconds()
+
+            # Determine match status
+            if time_diff < 0:
+                match['status'] = 'completed'
+            elif time_diff <= 30 * 3600:
+                match['status'] = 'in-progress'
+            else:
+                match['status'] = 'upcoming'
+
+            # Prediction should be open if the match is between 30 hours and 20 minutes away
+            match['prediction_open'] = (20 * 60) < time_diff <= (30 * 3600)
+
+        except ValueError as e:
+            print(f"Error parsing date for match {match}: {e}")
+
+    # Sort matches by date
+    matches.sort(key=lambda x: x['match_date'])
+
+    return render_template("matches.html", matches=matches, team_colors=TEAM_COLORS)
+
+
+
+@app.route('/predict/<match_id>', methods=['GET'])
+def predict(match_id):
+    """Fetches players for both teams and renders them on the page."""
+    # Fetch match details
+    match = supabase.table('matches').select('*').eq('match_id', match_id).execute().data[0]
+    
+    # Fetch players for both teams
+    team1_players = supabase.table('players').select('*').eq('team_name', match['team1']).execute().data
+    team2_players = supabase.table('players').select('*').eq('team_name', match['team2']).execute().data
+
+    return render_template('predict.html', match=match, team1_players=team1_players, team2_players=team2_players)
+
+
+if __name__ == '__main__':
+    app.run(debug=True)

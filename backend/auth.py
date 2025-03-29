@@ -1,48 +1,63 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import APIRouter, HTTPException, Request, Form
+from fastapi.templating import Jinja2Templates
+from fastapi.responses import HTMLResponse, RedirectResponse
 from pydantic import BaseModel
 from passlib.context import CryptContext
+from starlette.status import HTTP_302_FOUND
 from database import create_user, get_user_by_username
 
-app = FastAPI()
+router = APIRouter()
+templates = Jinja2Templates(directory="templates")  # Ensure this path is correct
+
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
-class UserCreate(BaseModel):
-    username: str
-    email: str
-    password: str
+# ---------------------- [ Serve HTML Pages ] ----------------------
 
-class UserLogin(BaseModel):
-    username: str
-    password: str
+@router.get("/login/", response_class=HTMLResponse)
+def login_page(request: Request):
+    return templates.TemplateResponse("login.html", {"request": request})
 
-@app.post("/signup/")
-def signup(user: UserCreate):
-    # Check if user already exists
-    existing_user = get_user_by_username(user.username)
-    if existing_user:
-        raise HTTPException(status_code=400, detail="User already exists")
+@router.get("/register/", response_class=HTMLResponse)
+def register_page(request: Request):
+    return templates.TemplateResponse("register.html", {"request": request})
 
-    # Hash password and store in Supabase
-    hashed_password = pwd_context.hash(user.password)
-    new_user = create_user(user.username, user.email, hashed_password)
+# ---------------------- [ Handle Register ] ----------------------
 
-    if "error" in new_user:
-        raise HTTPException(status_code=500, detail="User creation failed")
+@router.post("/signup/")
+def register_user(
+    request: Request,
+    username: str = Form(...),
+    email: str = Form(...),
+    password: str = Form(...)
+):
+    existing_user = get_user_by_username(username)
+    if existing_user and len(existing_user) > 0:
+        return templates.TemplateResponse("register.html", {"request": request, "error": "User already exists"})
 
-    return {"message": "User registered successfully"}
+    hashed_password = pwd_context.hash(password)
+    new_user = create_user(username, email, hashed_password)
 
-@app.post("/login/")
-def login(user: UserLogin):
-    db_user = get_user_by_username(user.username)
+    if not new_user or "error" in new_user:
+        return templates.TemplateResponse("register.html", {"request": request, "error": "User creation failed"})
 
-    # Check if user exists
+    return RedirectResponse(url="/auth/login/", status_code=HTTP_302_FOUND)  # ✅ Updated redirect
+
+# ---------------------- [ Handle Login ] ----------------------
+
+@router.post("/login/")
+def login_user(
+    request: Request,
+    username: str = Form(...),
+    password: str = Form(...)
+):
+    db_user = get_user_by_username(username)
+
     if not db_user or len(db_user) == 0:
-        raise HTTPException(status_code=401, detail="Invalid credentials")
+        return templates.TemplateResponse("login.html", {"request": request, "error": "Invalid credentials"})
 
-    db_user = db_user[0]  # Get the first dictionary from the list
+    db_user = db_user[0]  # Extract the first user if multiple exist
 
-    # Verify password
-    if not pwd_context.verify(user.password, db_user["hashed_password"]):
-        raise HTTPException(status_code=401, detail="Invalid credentials")
+    if not pwd_context.verify(password, db_user["hashed_password"]):
+        return templates.TemplateResponse("login.html", {"request": request, "error": "Invalid credentials"})
 
-    return {"message": "Login successful"}
+    return RedirectResponse(url="/", status_code=HTTP_302_FOUND)  # ✅ Keeps user on home page

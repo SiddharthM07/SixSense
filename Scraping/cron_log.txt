@@ -1,0 +1,1874 @@
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-03-25 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-03-26 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-03 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-04 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-05 15:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-05 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-06 15:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-06 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-07 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-08 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-09 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-10 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-11 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-12 15:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-12 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-13 15:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-26 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-03-22 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-18 15:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-03-23 15:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-03-23 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-03-24 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-03-27 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-03-28 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-03-29 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-03-30 15:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-03-30 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-03-31 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-01 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-02 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-11 15:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-11 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-12 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-13 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-14 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-15 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-16 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-17 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-13 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-14 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-15 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-16 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-17 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-18 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-19 15:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-19 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-20 15:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-20 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-21 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-22 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-23 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-24 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-25 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-27 15:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-27 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-28 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-29 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-04-30 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-01 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-02 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-03 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-04 15:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-04 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-05 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-06 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-07 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-08 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-09 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-20 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-21 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-23 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-25 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-18 19:30:00+05:30
+Current IST time: 2025-03-27 11:30:03.386562+05:30
+Match time (IST): 2025-05-10 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-03-25 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-03-26 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-03 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-04 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-05 15:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-05 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-06 15:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-06 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-07 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-08 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-09 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-10 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-11 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-12 15:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-12 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-13 15:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-26 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-03-22 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-18 15:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-03-23 15:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-03-23 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-03-24 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-03-27 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-03-28 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-03-29 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-03-30 15:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-03-30 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-03-31 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-01 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-02 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-11 15:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-11 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-12 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-13 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-14 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-15 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-16 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-17 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-13 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-14 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-15 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-16 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-17 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-18 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-19 15:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-19 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-20 15:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-20 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-21 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-22 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-23 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-24 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-25 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-27 15:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-27 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-28 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-29 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-04-30 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-01 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-02 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-03 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-04 15:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-04 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-05 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-06 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-07 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-08 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-09 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-20 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-21 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-23 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-25 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-18 19:30:00+05:30
+Current IST time: 2025-03-27 13:30:08.826930+05:30
+Match time (IST): 2025-05-10 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-03-25 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-03-26 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-03 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-04 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-05 15:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-05 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-06 15:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-06 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-07 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-08 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-09 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-10 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-11 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-12 15:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-12 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-13 15:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-26 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-03-22 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-18 15:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-03-23 15:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-03-23 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-03-24 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-03-27 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-03-28 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-03-29 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-03-30 15:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-03-30 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-03-31 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-01 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-02 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-11 15:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-11 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-12 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-13 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-14 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-15 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-16 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-17 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-13 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-14 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-15 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-16 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-17 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-18 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-19 15:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-19 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-20 15:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-20 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-21 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-22 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-23 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-24 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-25 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-27 15:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-27 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-28 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-29 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-04-30 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-01 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-02 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-03 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-04 15:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-04 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-05 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-06 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-07 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-08 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-09 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-20 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-21 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-23 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-25 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-18 19:30:00+05:30
+Current IST time: 2025-03-27 15:30:03.430510+05:30
+Match time (IST): 2025-05-10 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-03-25 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-03-27 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-03-26 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-03 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-04 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-05 15:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-05 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-06 15:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-06 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-07 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-08 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-09 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-10 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-11 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-12 15:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-12 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-13 15:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-26 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-03-22 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-18 15:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-03-23 15:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-03-23 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-03-24 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-03-28 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-03-29 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-03-30 15:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-03-30 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-03-31 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-01 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-02 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-11 15:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-11 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-12 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-13 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-14 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-15 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-16 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-17 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-13 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-14 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-15 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-16 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-17 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-18 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-19 15:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-19 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-20 15:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-20 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-21 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-22 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-23 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-24 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-25 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-27 15:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-27 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-28 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-29 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-04-30 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-01 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-02 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-03 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-04 15:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-04 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-05 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-06 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-07 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-08 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-09 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-20 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-21 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-23 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-25 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-18 19:30:00+05:30
+Current IST time: 2025-03-28 11:30:07.480051+05:30
+Match time (IST): 2025-05-10 19:30:00+05:30
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 50, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 19, in update_match_status
+    matches = supabase.table("matches").select("match_id, match_date, status").execute().data
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 50, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 19, in update_match_status
+    matches = supabase.table("matches").select("match_id, match_date, status").execute().data
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-03-25 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-03-27 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-03-26 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-03 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-04 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-05 15:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-05 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-06 15:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-06 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-07 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-08 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-09 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-10 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-11 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-12 15:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-12 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-13 15:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-26 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-03-22 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-18 15:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-03-23 15:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-03-23 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-03-24 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-03-28 19:30:00+05:30
+Match 7431523f-7ccb-4a4a-aed7-5c42fc08464c started, status updated to 'in progress'.
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-03-29 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-03-30 15:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-03-30 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-03-31 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-01 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-02 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-11 15:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-11 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-12 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-13 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-14 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-15 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-16 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-17 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-13 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-14 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-15 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-16 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-17 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-18 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-19 15:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-19 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-20 15:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-20 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-21 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-22 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-23 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-24 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-25 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-27 15:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-27 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-28 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-29 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-04-30 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-01 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-02 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-03 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-04 15:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-04 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-05 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-06 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-07 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-08 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-09 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-20 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-21 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-23 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-25 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-18 19:30:00+05:30
+Current IST time: 2025-03-28 19:30:02.319368+05:30
+Match time (IST): 2025-05-10 19:30:00+05:30
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 50, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 19, in update_match_status
+    matches = supabase.table("matches").select("match_id, match_date, status").execute().data
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-03-25 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-03-27 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-03-26 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-03-28 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-03 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-04 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-05 15:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-05 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-06 15:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-06 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-07 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-08 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-09 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-10 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-11 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-12 15:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-12 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-13 15:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-26 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-03-22 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-18 15:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-03-23 15:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-03-23 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-03-24 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-03-29 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-03-30 15:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-03-30 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-03-31 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-01 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-02 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-11 15:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-11 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-12 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-13 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-14 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-15 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-16 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-17 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-13 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-14 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-15 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-16 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-17 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-18 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-19 15:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-19 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-20 15:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-20 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-21 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-22 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-23 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-24 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-25 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-27 15:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-27 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-28 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-29 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-04-30 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-01 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-02 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-03 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-04 15:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-04 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-05 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-06 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-07 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-08 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-09 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-20 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-21 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-23 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-25 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-18 19:30:00+05:30
+Current IST time: 2025-03-28 23:30:02.725322+05:30
+Match time (IST): 2025-05-10 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-03-25 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-03-27 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-03-26 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-03-28 19:30:00+05:30
+Match 7431523f-7ccb-4a4a-aed7-5c42fc08464c completed, status updated to 'completed'.
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-03 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-04 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-05 15:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-05 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-06 15:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-06 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-07 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-08 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-09 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-10 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-11 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-12 15:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-12 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-13 15:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-26 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-03-22 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-18 15:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-03-23 15:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-03-23 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-03-24 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-03-29 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-03-30 15:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-03-30 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-03-31 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-01 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-02 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-11 15:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-11 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-12 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-13 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-14 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-15 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-16 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-17 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-13 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-14 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-15 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-16 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-17 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-18 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-19 15:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-19 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-20 15:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-20 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-21 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-22 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-23 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-24 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-25 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-27 15:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-27 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-28 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-29 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-04-30 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-01 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-02 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-03 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-04 15:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-04 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-05 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-06 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-07 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-08 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-09 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-20 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-21 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-23 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-25 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-18 19:30:00+05:30
+Current IST time: 2025-03-29 01:30:02.627563+05:30
+Match time (IST): 2025-05-10 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-03-25 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-03-27 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-03-26 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-03-28 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-03 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-04 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-05 15:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-05 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-06 15:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-06 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-07 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-08 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-09 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-10 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-11 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-12 15:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-12 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-13 15:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-26 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-03-22 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-18 15:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-03-23 15:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-03-23 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-03-24 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-03-29 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-03-30 15:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-03-30 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-03-31 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-01 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-02 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-11 15:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-11 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-12 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-13 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-14 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-15 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-16 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-17 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-13 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-14 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-15 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-16 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-17 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-18 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-19 15:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-19 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-20 15:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-20 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-21 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-22 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-23 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-24 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-25 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-27 15:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-27 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-28 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-29 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-04-30 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-01 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-02 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-03 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-04 15:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-04 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-05 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-06 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-07 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-08 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-09 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-20 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-21 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-23 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-25 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-18 19:30:00+05:30
+Current IST time: 2025-03-29 12:30:04.463296+05:30
+Match time (IST): 2025-05-10 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-03-25 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-03-27 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-03-26 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-03-28 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-03 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-04 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-05 15:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-05 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-06 15:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-06 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-07 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-08 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-09 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-10 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-11 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-12 15:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-12 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-13 15:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-26 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-03-22 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-18 15:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-03-23 15:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-03-23 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-03-24 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-03-29 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-03-30 15:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-03-30 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-03-31 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-01 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-02 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-11 15:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-11 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-12 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-13 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-14 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-15 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-16 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-17 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-13 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-14 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-15 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-16 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-17 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-18 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-19 15:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-19 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-20 15:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-20 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-21 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-22 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-23 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-24 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-25 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-27 15:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-27 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-28 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-29 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-04-30 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-01 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-02 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-03 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-04 15:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-04 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-05 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-06 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-07 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-08 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-09 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-20 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-21 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-23 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-25 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-18 19:30:00+05:30
+Current IST time: 2025-03-29 13:30:04.198523+05:30
+Match time (IST): 2025-05-10 19:30:00+05:30
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 50, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 19, in update_match_status
+    matches = supabase.table("matches").select("match_id, match_date, status").execute().data
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 50, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 19, in update_match_status
+    matches = supabase.table("matches").select("match_id, match_date, status").execute().data
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 50, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 19, in update_match_status
+    matches = supabase.table("matches").select("match_id, match_date, status").execute().data
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 50, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 19, in update_match_status
+    matches = supabase.table("matches").select("match_id, match_date, status").execute().data
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 50, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 19, in update_match_status
+    matches = supabase.table("matches").select("match_id, match_date, status").execute().data
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 50, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 19, in update_match_status
+    matches = supabase.table("matches").select("match_id, match_date, status").execute().data
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out

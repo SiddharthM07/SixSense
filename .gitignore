@@ -3,4 +3,6 @@ venv/
 .env
 __pycache__/
 *.sqlite3
+infra/awscliv2.zip
+infra/terraform/.terraform/
 

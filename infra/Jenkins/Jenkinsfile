@@ -21,7 +21,7 @@ pipeline{
         }
         stage('Build Docker Image'){
             steps{
-                sh 'docker build -t siddharth1218/sixsense:latest .'
+                sh 'docker build -t siddharth1218/sixsense:latest -f Docker/Dockerfile .'
             }
         }
         stage('Push Docker Image'){

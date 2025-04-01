@@ -16,7 +16,7 @@ pipeline{
             steps{
                 sh 'python3 -m venv venv'
                 sh 'bash -c "source venv/bin/activate && pip install flake8"'
-                sh 'bash -c "source venv/bin/activate && flake8 --max-line-length=100 ."'
+                sh 'bash -c "source venv/bin/activate && flake8 --max-line-length=100 --exclude=venv/ ."'
             }
         }
         stage('Build Docker Image'){

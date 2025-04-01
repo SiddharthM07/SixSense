@@ -14,8 +14,9 @@ pipeline{
 }
         stage('Code Quality Check'){
             steps{
-                sh 'pip install flake8'
-                sh 'flake8 --max-line-length=100 . '
+                sh 'python3 -m venv venv'
+                sh 'source venv/bin/activate && pip install flake8'
+                sh 'source venv/bin/activate && flake8 --max-line-length=100 .'
             }
         }
         stage('Build Docker Image'){

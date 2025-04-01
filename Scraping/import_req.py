@@ -1,6 +1,6 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
 
 chrome_path = "/usr/bin/google-chrome"  # Update this if needed
 chrome_driver_path = "/usr/bin/chromedriver"  # Update this if needed

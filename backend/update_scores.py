@@ -1,8 +1,9 @@
 import os
+
 import requests
 from dotenv import load_dotenv
 
-#not in-use
+# not in-use
 # Load environment variables
 load_dotenv()
 
@@ -12,26 +13,29 @@ SUPABASE_API_KEY = os.getenv("SUPABASE_API_KEY")
 headers = {
     "apikey": SUPABASE_API_KEY,
     "Authorization": f"Bearer {SUPABASE_API_KEY}",
-    "Content-Type": "application/json"
+    "Content-Type": "application/json",
 }
+
 
 def get_match_result(match_id):
     """Fetch match results for a given match."""
     url = f"{SUPABASE_URL}/rest/v1/match_results?match_id=eq.{match_id}"
     response = requests.get(url, headers=headers)
-    
+
     if response.status_code == 200 and response.json():
         return response.json()[0]
     return None
+
 
 def get_predictions_for_match(match_id):
     """Fetch all predictions for a specific match."""
     url = f"{SUPABASE_URL}/rest/v1/predictions?match_id=eq.{match_id}"
     response = requests.get(url, headers=headers)
-    
+
     if response.status_code == 200:
         return response.json()
     return []
+
 
 def update_user_score(user_id, points):
     """Ensure the user exists, then update or insert their score."""
@@ -67,13 +71,13 @@ def update_user_score(user_id, points):
 def process_match_results(match_id):
     """Compare predictions with actual results and update scores."""
     match_result = get_match_result(match_id)
-    
+
     if not match_result:
         print("No match result found.")
         return
-    
+
     predictions = get_predictions_for_match(match_id)
-    
+
     for prediction in predictions:
         user_id = prediction["user_id"]
         total_points = 0
@@ -88,6 +92,7 @@ def process_match_results(match_id):
 
         if total_points > 0:
             update_user_score(user_id, total_points)
+
 
 # Example: Processing results for match ID 1
 if __name__ == "__main__":

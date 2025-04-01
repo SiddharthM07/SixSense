@@ -1,4 +1,5 @@
 import os
+
 import requests
 from dotenv import load_dotenv
 from supabase import create_client
@@ -14,6 +15,7 @@ API_URL = "https://api.cricapi.com/v1/series_squad?apikey=98acec87-4899-4aa7-8c9
 
 # Initialize Supabase client
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
+
 
 def update_players():
     response = requests.get(API_URL)
@@ -38,13 +40,14 @@ def update_players():
                     "country": player["country"],
                     "team_name": team_name,
                     "team_shortname": shortname,
-                    "player_img": player["playerImg"]
+                    "player_img": player["playerImg"],
                 }
                 supabase.table("players").upsert(player_data).execute()
 
         print("✅ Players updated successfully!")
     else:
         print("❌ Failed to fetch players!")
+
 
 # Run update
 update_players()

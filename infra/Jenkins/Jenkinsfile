@@ -8,7 +8,7 @@ pipeline{
     stages{
         stage('Clone Git Repo'){
             steps{
-                git branch: 'DEV', credentialsId: 'Git-login', URL:'https://github.com/SiddharthM07/SixSense.git'
+                git branch: 'DEV', credentialsId: 'Git-login', url:'https://github.com/SiddharthM07/SixSense.git'
            
     }
 }

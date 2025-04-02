@@ -8,28 +8,23 @@ RUN apk add --no-cache gcc musl-dev python3-dev libffi-dev
 
 # Copy requirements and install dependencies
 COPY requirements.txt /app/
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir --user -r requirements.txt
 
-# Start final stage
+# MultiBuild
 FROM python:3.11-alpine
 
 WORKDIR /app
 
-# Install runtime dependencies
+
 RUN apk add --no-cache libffi
 
-# Copy only necessary files from builder stage
-COPY --from=builder /usr/lib/python3.11/site-packages /usr/lib/python3.11/site-packages
-COPY --from=builder /usr/bin/python3 /usr/bin/python3
+
+COPY --from=builder /root/.local /root/.local
 COPY . /app/
 
-# Clean up build dependencies to save space
-RUN apk del gcc musl-dev python3-dev libffi-dev
 
-# Ensure the Python binary uses the installed packages
-ENV PATH="/usr/bin:$PATH"
+ENV PATH="/root/.local/bin:$PATH"
 
 EXPOSE 5000
 
-CMD ["python3", "backend/main.py"]
-
+CMD ["python", "backend/main.py"]

@@ -190,7 +190,7 @@ app.include_router(router)
 
 # Start Flask app in a separate process
 flask_process = subprocess.Popen(
-    ["python", "/home/siddharth/SixSense/Frontend/routes.py"]
+    ["python", "/app/Frontend/routes.py"]
 )
 
 # Give Flask a few seconds to start
@@ -198,7 +198,7 @@ time.sleep(3)
 
 if __name__ == "__main__":
     try:
-        uvicorn.run(app, host="127.0.0.1", port=8000)
+        uvicorn.run("backend.main:app", host="0.0.0.0", port=5001, reload=True)
     finally:
         # Ensure Flask stops when FastAPI stops
         flask_process.terminate()

@@ -1,0 +1,45 @@
+pipeline {
+    agent any
+
+    environment {
+        DOCKER_IMAGE = "siddharth1218/sixsense:latest"
+        DOCKER_CREDENTIALS = "docker-credentials"
+    }
+
+    stages {
+        stage('Clone Git Repo') {
+            steps {
+                git branch: 'DEV', credentialsId: 'Git-login', url: 'https://github.com/SiddharthM07/SixSense.git'
+            }
+        }
+
+        stage('Code Quality Check') {
+            steps {
+                sh 'python3 -m venv venv'
+                sh 'bash -c "source venv/bin/activate && pip install flake8"'
+                sh 'bash -c "source venv/bin/activate && flake8 --max-line-length=100 --exclude=venv/ ."'
+            }
+        }
+
+        stage('Build Docker Image') {
+            steps {
+                sh 'docker build -t siddharth1218/sixsense:latest -f Docker/Dockerfile .'
+            }
+        }
+
+        stage('Push Docker Image') {
+            steps {
+                withCredentials([usernamePassword(credentialsId: "docker-credentials", usernameVariable: "DOCKER_USER", passwordVariable: "DOCKER_PASS")]) {
+                    sh 'echo "$DOCKER_PASS" | docker login -u "$DOCKER_USER" --password-stdin'
+                    sh 'docker push $DOCKER_IMAGE'
+                }
+            }
+        }
+
+        stage('Deploying Container') {
+            steps {
+                sh 'docker run -d --name sixsense-container --env-file /home/ubuntu/.env -p 5000:5000 $DOCKER_IMAGE'
+            }
+        }
+    }
+}

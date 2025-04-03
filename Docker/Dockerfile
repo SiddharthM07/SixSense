@@ -18,7 +18,7 @@ WORKDIR /app
 # Install necessary libraries
 RUN apk add --no-cache libffi
 
-# ✅ Fix: Copy dependencies from the correct path
+# Fix: Copy dependencies from the correct path
 COPY --from=builder /usr/local /usr/local  
 COPY ../ /app/  
 

@@ -6,7 +6,7 @@ WORKDIR /app
 # Install required system dependencies
 RUN apk add --no-cache gcc musl-dev python3-dev libffi-dev
 
-# Correct the path to requirements.txt (accessing from parent directory)
+# Copy requirements and install dependencies
 COPY ../requirements.txt /app/
 RUN pip install --no-cache-dir -r requirements.txt  
 
@@ -18,12 +18,11 @@ WORKDIR /app
 # Install necessary libraries
 RUN apk add --no-cache libffi
 
-COPY --from=builder /root/.local /root/.local
-
-# ✅ Copy the entire SixSense directory (from parent folder)
+# ✅ Fix: Copy dependencies from the correct path
+COPY --from=builder /usr/local /usr/local  
 COPY ../ /app/  
 
-ENV PATH="/root/.local/bin:$PATH"
+ENV PATH="/usr/local/bin:$PATH"
 ENV PYTHONPATH="/app/backend"  
 
 EXPOSE 5001  

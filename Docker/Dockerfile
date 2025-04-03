@@ -7,8 +7,8 @@ WORKDIR /app
 RUN apk add --no-cache gcc musl-dev python3-dev libffi-dev
 
 # Copy requirements and install dependencies
-COPY requirements.txt /app/
-RUN pip install --no-cache-dir --user -r requirements.txt
+COPY SixSense/requirements.txt /app/
+RUN pip install --no-cache-dir -r requirements.txt  # Install globally
 
 # MultiBuild
 FROM python:3.11-alpine
@@ -19,13 +19,11 @@ WORKDIR /app
 RUN apk add --no-cache libffi
 
 COPY --from=builder /root/.local /root/.local
-COPY . /app/
+COPY . /app/  
 
 ENV PATH="/root/.local/bin:$PATH"
-ENV PYTHONPATH="/app"  
+ENV PYTHONPATH="/app/SixSense"  
 
-# Update to match FastAPI's port
 EXPOSE 5001  
 
-# Correct way to start Uvicorn
-CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "5001", "--reload"]
+CMD ["uvicorn", "SixSense.backend.main:app", "--host", "0.0.0.0", "--port", "5001", "--reload"]

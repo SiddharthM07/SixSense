@@ -162,13 +162,13 @@
 
     <!-- Top Navigation -->
     <div class="top-nav">
-        <a href="http://127.0.0.1:5001/leaderboard" class="leaderboard-link">🏆 Leaderboard</a>
+        <a href="{{ request.url_for('leaderboard') }}" class="leaderboard-link">🏆 Leaderboard</a>
         <h1>Six☄Sense</h1>
-        <a href="http://127.0.0.1:5001/logout" class="logout-button"> 🚪Logout</a>
+        <a href="{{ request.url_for('logout') }}" class="logout-button"> 🚪Logout</a>
     </div>
 
     <!-- Flash Messages Section -->
-    {% with messages = get_flashed_messages(with_categories=true) %}
+    {% with messages = get_flashed_messages(request, with_categories=true) %}
         {% if messages %}
             <div class="flash-messages">
                 {% for category, message in messages %}
@@ -195,7 +195,7 @@
                     <p class="match-info">
                         {% if match.status == 'completed' %}
                             <span class="prediction-status completed">✔️ Completed</span>
-                            <a href="{{ url_for('view_results', match_id=match.match_id) }}" class="action-button">View Results</a>
+                            <a href="{{ request.url_for('view_results', match_id=match.match_id) }}" class="action-button">View Results</a>
                         {% elif match.status == 'in-progress' %}
                             <span class="prediction-status">⏳ In Progress</span>
                         {% else %}
@@ -204,7 +204,7 @@
                                 {% if match.already_predicted %}
                                    <button class="action-button" disabled>Prediction Submitted</button>
                                 {% else %}
-                                   <a href="{{ url_for('predict', match_id=match.match_id) }}" class="action-button">Predict Now</a>
+                                   <a href="{{ request.url_for('predict', match_id=match.match_id) }}" class="action-button">Predict Now</a>
                                 {% endif %}
                             {% endif %}
                         {% endif %}

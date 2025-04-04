@@ -2578,3 +2578,423 @@ Match Winner: Gujarat Titans
 Top Batsman: Jos Buttler (73 runs)
 Top Wicket Taker: Mohammed Siraj (3 wickets)
 Updated results for match 64e88ffc-606f-4d4f-b848-310f1ec7a98a: Winner - Gujarat Titans, Top Batsman - Jos Buttler, Top Wicket Taker - Mohammed Siraj
+Match Winner: Punjab Kings
+Top Batsman: Shreyas Iyer (97 runs)
+Top Wicket Taker: Ravisrinivasan Sai Kishore (3 wickets)
+Updated results for match 83d70527-5fc4-4fad-8dd2-b88b385f379e: Winner - Punjab Kings, Top Batsman - Shreyas Iyer, Top Wicket Taker - Ravisrinivasan Sai Kishore
+Match Winner: Lucknow Super Giants
+Top Batsman: Nicholas Pooran (70 runs)
+Top Wicket Taker: Shardul Thakur (4 wickets)
+Updated results for match ab4e0813-1e78-467e-aca0-d80c5cfe7dbd: Winner - Lucknow Super Giants, Top Batsman - Nicholas Pooran, Top Wicket Taker - Shardul Thakur
+Match Winner: Kolkata Knight Riders
+Top Batsman: Quinton de Kock (97 runs)
+Top Wicket Taker: Vaibhav Arora (2 wickets)
+Updated results for match fd459f45-6e79-42c5-84e4-d046f291cacf: Winner - Kolkata Knight Riders, Top Batsman - Quinton de Kock, Top Wicket Taker - Vaibhav Arora
+Match Winner: Rajasthan Royals
+Top Batsman: Nitish Rana (81 runs)
+Top Wicket Taker: Wanindu Hasaranga (4 wickets)
+Updated results for match 057ce3fb-8117-47fe-bf25-be0ed8a56dd0: Winner - Rajasthan Royals, Top Batsman - Nitish Rana, Top Wicket Taker - Wanindu Hasaranga
+Match Winner: Royal Challengers Bengaluru
+Top Batsman: Rajat Patidar (51 runs)
+Top Wicket Taker: Noor Ahmad (3 wickets)
+Updated results for match 7431523f-7ccb-4a4a-aed7-5c42fc08464c: Winner - Royal Challengers Bengaluru, Top Batsman - Rajat Patidar, Top Wicket Taker - Noor Ahmad
+Match Winner: Gujarat Titans
+Top Batsman: Sai Sudharsan (63 runs)
+Top Wicket Taker: Hardik Pandya (2 wickets)
+Updated results for match f5ed540f-15c7-4189-a5d4-e54be746a522: Winner - Gujarat Titans, Top Batsman - Sai Sudharsan, Top Wicket Taker - Hardik Pandya
+Match Winner: Delhi Capitals
+Top Batsman: Aniket Verma (74 runs)
+Top Wicket Taker: Mitchell Starc (5 wickets)
+Updated results for match af5cf1dd-b3d4-4e8d-8660-e5e27cd5202e: Winner - Delhi Capitals, Top Batsman - Aniket Verma, Top Wicket Taker - Mitchell Starc
+Match Winner: Punjab Kings
+Top Batsman: Prabhsimran Singh (69 runs)
+Top Wicket Taker: Arshdeep Singh (3 wickets)
+Updated results for match 7896feec-8fd6-44ef-aee3-eabb679e6305: Winner - Punjab Kings, Top Batsman - Prabhsimran Singh, Top Wicket Taker - Arshdeep Singh
+Match Winner: Mumbai Indians
+Top Batsman: Ryan Rickelton (62 runs)
+Top Wicket Taker: Ashwani Kumar (4 wickets)
+Updated results for match 075649ef-6ca8-4f50-8143-87814b828ea0: Winner - Mumbai Indians, Top Batsman - Ryan Rickelton, Top Wicket Taker - Ashwani Kumar
+Match Winner: Kolkata Knight Riders
+Top Batsman: Venkatesh Iyer (60 runs)
+Top Wicket Taker: Vaibhav Arora (3 wickets)
+Updated results for match d5915da0-c08b-4122-bcb0-2c2e1e6e168a: Winner - Kolkata Knight Riders, Top Batsman - Venkatesh Iyer, Top Wicket Taker - Vaibhav Arora
+Match Winner: Royal Challengers Bengaluru
+Top Batsman: Virat Kohli (59 runs)
+Top Wicket Taker: Krunal Pandya (3 wickets)
+Updated results for match cacf2d34-41b8-41dd-91ed-5183d880084c: Winner - Royal Challengers Bengaluru, Top Batsman - Virat Kohli, Top Wicket Taker - Krunal Pandya
+Match Winner: Sunrisers Hyderabad
+Top Batsman: Ishan Kishan (106 runs)
+Top Wicket Taker: Tushar Deshpande (3 wickets)
+Updated results for match 91b007f3-c0af-493f-808a-3f4ae2d66e33: Winner - Sunrisers Hyderabad, Top Batsman - Ishan Kishan, Top Wicket Taker - Tushar Deshpande
+Match Winner: Chennai Super Kings
+Top Batsman: Rachin Ravindra (65 runs)
+Top Wicket Taker: Noor Ahmad (4 wickets)
+Updated results for match 208d68e5-3fab-4f3b-88e9-29ec4a02d3e2: Winner - Chennai Super Kings, Top Batsman - Rachin Ravindra, Top Wicket Taker - Noor Ahmad
+Match Winner: Delhi Capitals
+Top Batsman: Nicholas Pooran (75 runs)
+Top Wicket Taker: Mitchell Starc (3 wickets)
+Updated results for match c6e97609-d9c1-46eb-805a-e282b34f3bb1: Winner - Delhi Capitals, Top Batsman - Nicholas Pooran, Top Wicket Taker - Mitchell Starc
+Match Winner: Gujarat Titans
+Top Batsman: Jos Buttler (73 runs)
+Top Wicket Taker: Mohammed Siraj (3 wickets)
+Updated results for match 64e88ffc-606f-4d4f-b848-310f1ec7a98a: Winner - Gujarat Titans, Top Batsman - Jos Buttler, Top Wicket Taker - Mohammed Siraj
+Match Winner: Punjab Kings
+Top Batsman: Shreyas Iyer (97 runs)
+Top Wicket Taker: Ravisrinivasan Sai Kishore (3 wickets)
+Updated results for match 83d70527-5fc4-4fad-8dd2-b88b385f379e: Winner - Punjab Kings, Top Batsman - Shreyas Iyer, Top Wicket Taker - Ravisrinivasan Sai Kishore
+Match Winner: Lucknow Super Giants
+Top Batsman: Nicholas Pooran (70 runs)
+Top Wicket Taker: Shardul Thakur (4 wickets)
+Updated results for match ab4e0813-1e78-467e-aca0-d80c5cfe7dbd: Winner - Lucknow Super Giants, Top Batsman - Nicholas Pooran, Top Wicket Taker - Shardul Thakur
+Match Winner: Kolkata Knight Riders
+Top Batsman: Quinton de Kock (97 runs)
+Top Wicket Taker: Vaibhav Arora (2 wickets)
+Updated results for match fd459f45-6e79-42c5-84e4-d046f291cacf: Winner - Kolkata Knight Riders, Top Batsman - Quinton de Kock, Top Wicket Taker - Vaibhav Arora
+Match Winner: Rajasthan Royals
+Top Batsman: Nitish Rana (81 runs)
+Top Wicket Taker: Wanindu Hasaranga (4 wickets)
+Updated results for match 057ce3fb-8117-47fe-bf25-be0ed8a56dd0: Winner - Rajasthan Royals, Top Batsman - Nitish Rana, Top Wicket Taker - Wanindu Hasaranga
+Match Winner: Royal Challengers Bengaluru
+Top Batsman: Rajat Patidar (51 runs)
+Top Wicket Taker: Noor Ahmad (3 wickets)
+Updated results for match 7431523f-7ccb-4a4a-aed7-5c42fc08464c: Winner - Royal Challengers Bengaluru, Top Batsman - Rajat Patidar, Top Wicket Taker - Noor Ahmad
+Match Winner: Gujarat Titans
+Top Batsman: Sai Sudharsan (63 runs)
+Top Wicket Taker: Hardik Pandya (2 wickets)
+Updated results for match f5ed540f-15c7-4189-a5d4-e54be746a522: Winner - Gujarat Titans, Top Batsman - Sai Sudharsan, Top Wicket Taker - Hardik Pandya
+Match Winner: Delhi Capitals
+Top Batsman: Aniket Verma (74 runs)
+Top Wicket Taker: Mitchell Starc (5 wickets)
+Updated results for match af5cf1dd-b3d4-4e8d-8660-e5e27cd5202e: Winner - Delhi Capitals, Top Batsman - Aniket Verma, Top Wicket Taker - Mitchell Starc
+Match Winner: Punjab Kings
+Top Batsman: Prabhsimran Singh (69 runs)
+Top Wicket Taker: Arshdeep Singh (3 wickets)
+Updated results for match 7896feec-8fd6-44ef-aee3-eabb679e6305: Winner - Punjab Kings, Top Batsman - Prabhsimran Singh, Top Wicket Taker - Arshdeep Singh
+Match Winner: Mumbai Indians
+Top Batsman: Ryan Rickelton (62 runs)
+Top Wicket Taker: Ashwani Kumar (4 wickets)
+Updated results for match 075649ef-6ca8-4f50-8143-87814b828ea0: Winner - Mumbai Indians, Top Batsman - Ryan Rickelton, Top Wicket Taker - Ashwani Kumar
+Match Winner: Kolkata Knight Riders
+Top Batsman: Venkatesh Iyer (60 runs)
+Top Wicket Taker: Vaibhav Arora (3 wickets)
+Updated results for match d5915da0-c08b-4122-bcb0-2c2e1e6e168a: Winner - Kolkata Knight Riders, Top Batsman - Venkatesh Iyer, Top Wicket Taker - Vaibhav Arora
+Match Winner: Royal Challengers Bengaluru
+Top Batsman: Virat Kohli (59 runs)
+Top Wicket Taker: Krunal Pandya (3 wickets)
+Updated results for match cacf2d34-41b8-41dd-91ed-5183d880084c: Winner - Royal Challengers Bengaluru, Top Batsman - Virat Kohli, Top Wicket Taker - Krunal Pandya
+Match Winner: Sunrisers Hyderabad
+Top Batsman: Ishan Kishan (106 runs)
+Top Wicket Taker: Tushar Deshpande (3 wickets)
+Updated results for match 91b007f3-c0af-493f-808a-3f4ae2d66e33: Winner - Sunrisers Hyderabad, Top Batsman - Ishan Kishan, Top Wicket Taker - Tushar Deshpande
+Match Winner: Chennai Super Kings
+Top Batsman: Rachin Ravindra (65 runs)
+Top Wicket Taker: Noor Ahmad (4 wickets)
+Updated results for match 208d68e5-3fab-4f3b-88e9-29ec4a02d3e2: Winner - Chennai Super Kings, Top Batsman - Rachin Ravindra, Top Wicket Taker - Noor Ahmad
+Match Winner: Delhi Capitals
+Top Batsman: Nicholas Pooran (75 runs)
+Top Wicket Taker: Mitchell Starc (3 wickets)
+Updated results for match c6e97609-d9c1-46eb-805a-e282b34f3bb1: Winner - Delhi Capitals, Top Batsman - Nicholas Pooran, Top Wicket Taker - Mitchell Starc
+Match Winner: Gujarat Titans
+Top Batsman: Jos Buttler (73 runs)
+Top Wicket Taker: Mohammed Siraj (3 wickets)
+Updated results for match 64e88ffc-606f-4d4f-b848-310f1ec7a98a: Winner - Gujarat Titans, Top Batsman - Jos Buttler, Top Wicket Taker - Mohammed Siraj
+Match Winner: Punjab Kings
+Top Batsman: Shreyas Iyer (97 runs)
+Top Wicket Taker: Ravisrinivasan Sai Kishore (3 wickets)
+Updated results for match 83d70527-5fc4-4fad-8dd2-b88b385f379e: Winner - Punjab Kings, Top Batsman - Shreyas Iyer, Top Wicket Taker - Ravisrinivasan Sai Kishore
+Match Winner: Lucknow Super Giants
+Top Batsman: Nicholas Pooran (70 runs)
+Top Wicket Taker: Shardul Thakur (4 wickets)
+Updated results for match ab4e0813-1e78-467e-aca0-d80c5cfe7dbd: Winner - Lucknow Super Giants, Top Batsman - Nicholas Pooran, Top Wicket Taker - Shardul Thakur
+Match Winner: Kolkata Knight Riders
+Top Batsman: Quinton de Kock (97 runs)
+Top Wicket Taker: Vaibhav Arora (2 wickets)
+Updated results for match fd459f45-6e79-42c5-84e4-d046f291cacf: Winner - Kolkata Knight Riders, Top Batsman - Quinton de Kock, Top Wicket Taker - Vaibhav Arora
+Match Winner: Rajasthan Royals
+Top Batsman: Nitish Rana (81 runs)
+Top Wicket Taker: Wanindu Hasaranga (4 wickets)
+Updated results for match 057ce3fb-8117-47fe-bf25-be0ed8a56dd0: Winner - Rajasthan Royals, Top Batsman - Nitish Rana, Top Wicket Taker - Wanindu Hasaranga
+Match Winner: Royal Challengers Bengaluru
+Top Batsman: Rajat Patidar (51 runs)
+Top Wicket Taker: Noor Ahmad (3 wickets)
+Updated results for match 7431523f-7ccb-4a4a-aed7-5c42fc08464c: Winner - Royal Challengers Bengaluru, Top Batsman - Rajat Patidar, Top Wicket Taker - Noor Ahmad
+Match Winner: Gujarat Titans
+Top Batsman: Sai Sudharsan (63 runs)
+Top Wicket Taker: Hardik Pandya (2 wickets)
+Updated results for match f5ed540f-15c7-4189-a5d4-e54be746a522: Winner - Gujarat Titans, Top Batsman - Sai Sudharsan, Top Wicket Taker - Hardik Pandya
+Match Winner: Delhi Capitals
+Top Batsman: Aniket Verma (74 runs)
+Top Wicket Taker: Mitchell Starc (5 wickets)
+Updated results for match af5cf1dd-b3d4-4e8d-8660-e5e27cd5202e: Winner - Delhi Capitals, Top Batsman - Aniket Verma, Top Wicket Taker - Mitchell Starc
+Match Winner: Punjab Kings
+Top Batsman: Prabhsimran Singh (69 runs)
+Top Wicket Taker: Arshdeep Singh (3 wickets)
+Updated results for match 7896feec-8fd6-44ef-aee3-eabb679e6305: Winner - Punjab Kings, Top Batsman - Prabhsimran Singh, Top Wicket Taker - Arshdeep Singh
+Match Winner: Mumbai Indians
+Top Batsman: Ryan Rickelton (62 runs)
+Top Wicket Taker: Ashwani Kumar (4 wickets)
+Updated results for match 075649ef-6ca8-4f50-8143-87814b828ea0: Winner - Mumbai Indians, Top Batsman - Ryan Rickelton, Top Wicket Taker - Ashwani Kumar
+Match Winner: Kolkata Knight Riders
+Top Batsman: Venkatesh Iyer (60 runs)
+Top Wicket Taker: Vaibhav Arora (3 wickets)
+Updated results for match d5915da0-c08b-4122-bcb0-2c2e1e6e168a: Winner - Kolkata Knight Riders, Top Batsman - Venkatesh Iyer, Top Wicket Taker - Vaibhav Arora
+Match Winner: Royal Challengers Bengaluru
+Top Batsman: Virat Kohli (59 runs)
+Top Wicket Taker: Krunal Pandya (3 wickets)
+Updated results for match cacf2d34-41b8-41dd-91ed-5183d880084c: Winner - Royal Challengers Bengaluru, Top Batsman - Virat Kohli, Top Wicket Taker - Krunal Pandya
+Match Winner: Sunrisers Hyderabad
+Top Batsman: Ishan Kishan (106 runs)
+Top Wicket Taker: Tushar Deshpande (3 wickets)
+Updated results for match 91b007f3-c0af-493f-808a-3f4ae2d66e33: Winner - Sunrisers Hyderabad, Top Batsman - Ishan Kishan, Top Wicket Taker - Tushar Deshpande
+Match Winner: Chennai Super Kings
+Top Batsman: Rachin Ravindra (65 runs)
+Top Wicket Taker: Noor Ahmad (4 wickets)
+Updated results for match 208d68e5-3fab-4f3b-88e9-29ec4a02d3e2: Winner - Chennai Super Kings, Top Batsman - Rachin Ravindra, Top Wicket Taker - Noor Ahmad
+Match Winner: Delhi Capitals
+Top Batsman: Nicholas Pooran (75 runs)
+Top Wicket Taker: Mitchell Starc (3 wickets)
+Updated results for match c6e97609-d9c1-46eb-805a-e282b34f3bb1: Winner - Delhi Capitals, Top Batsman - Nicholas Pooran, Top Wicket Taker - Mitchell Starc
+Match Winner: Gujarat Titans
+Top Batsman: Jos Buttler (73 runs)
+Top Wicket Taker: Mohammed Siraj (3 wickets)
+Updated results for match 64e88ffc-606f-4d4f-b848-310f1ec7a98a: Winner - Gujarat Titans, Top Batsman - Jos Buttler, Top Wicket Taker - Mohammed Siraj
+Match Winner: Punjab Kings
+Top Batsman: Shreyas Iyer (97 runs)
+Top Wicket Taker: Ravisrinivasan Sai Kishore (3 wickets)
+Updated results for match 83d70527-5fc4-4fad-8dd2-b88b385f379e: Winner - Punjab Kings, Top Batsman - Shreyas Iyer, Top Wicket Taker - Ravisrinivasan Sai Kishore
+Match Winner: Lucknow Super Giants
+Top Batsman: Nicholas Pooran (70 runs)
+Top Wicket Taker: Shardul Thakur (4 wickets)
+Updated results for match ab4e0813-1e78-467e-aca0-d80c5cfe7dbd: Winner - Lucknow Super Giants, Top Batsman - Nicholas Pooran, Top Wicket Taker - Shardul Thakur
+Match Winner: Kolkata Knight Riders
+Top Batsman: Quinton de Kock (97 runs)
+Top Wicket Taker: Vaibhav Arora (2 wickets)
+Updated results for match fd459f45-6e79-42c5-84e4-d046f291cacf: Winner - Kolkata Knight Riders, Top Batsman - Quinton de Kock, Top Wicket Taker - Vaibhav Arora
+Match Winner: Rajasthan Royals
+Top Batsman: Nitish Rana (81 runs)
+Top Wicket Taker: Wanindu Hasaranga (4 wickets)
+Updated results for match 057ce3fb-8117-47fe-bf25-be0ed8a56dd0: Winner - Rajasthan Royals, Top Batsman - Nitish Rana, Top Wicket Taker - Wanindu Hasaranga
+Match Winner: Royal Challengers Bengaluru
+Top Batsman: Rajat Patidar (51 runs)
+Top Wicket Taker: Noor Ahmad (3 wickets)
+Updated results for match 7431523f-7ccb-4a4a-aed7-5c42fc08464c: Winner - Royal Challengers Bengaluru, Top Batsman - Rajat Patidar, Top Wicket Taker - Noor Ahmad
+Match Winner: Gujarat Titans
+Top Batsman: Sai Sudharsan (63 runs)
+Top Wicket Taker: Hardik Pandya (2 wickets)
+Updated results for match f5ed540f-15c7-4189-a5d4-e54be746a522: Winner - Gujarat Titans, Top Batsman - Sai Sudharsan, Top Wicket Taker - Hardik Pandya
+Match Winner: Delhi Capitals
+Top Batsman: Aniket Verma (74 runs)
+Top Wicket Taker: Mitchell Starc (5 wickets)
+Updated results for match af5cf1dd-b3d4-4e8d-8660-e5e27cd5202e: Winner - Delhi Capitals, Top Batsman - Aniket Verma, Top Wicket Taker - Mitchell Starc
+Match Winner: Punjab Kings
+Top Batsman: Prabhsimran Singh (69 runs)
+Top Wicket Taker: Arshdeep Singh (3 wickets)
+Updated results for match 7896feec-8fd6-44ef-aee3-eabb679e6305: Winner - Punjab Kings, Top Batsman - Prabhsimran Singh, Top Wicket Taker - Arshdeep Singh
+Match Winner: Mumbai Indians
+Top Batsman: Ryan Rickelton (62 runs)
+Top Wicket Taker: Ashwani Kumar (4 wickets)
+Updated results for match 075649ef-6ca8-4f50-8143-87814b828ea0: Winner - Mumbai Indians, Top Batsman - Ryan Rickelton, Top Wicket Taker - Ashwani Kumar
+Match Winner: Kolkata Knight Riders
+Top Batsman: Venkatesh Iyer (60 runs)
+Top Wicket Taker: Vaibhav Arora (3 wickets)
+Updated results for match d5915da0-c08b-4122-bcb0-2c2e1e6e168a: Winner - Kolkata Knight Riders, Top Batsman - Venkatesh Iyer, Top Wicket Taker - Vaibhav Arora
+Match Winner: Royal Challengers Bengaluru
+Top Batsman: Virat Kohli (59 runs)
+Top Wicket Taker: Krunal Pandya (3 wickets)
+Updated results for match cacf2d34-41b8-41dd-91ed-5183d880084c: Winner - Royal Challengers Bengaluru, Top Batsman - Virat Kohli, Top Wicket Taker - Krunal Pandya
+Match Winner: Sunrisers Hyderabad
+Top Batsman: Ishan Kishan (106 runs)
+Top Wicket Taker: Tushar Deshpande (3 wickets)
+Updated results for match 91b007f3-c0af-493f-808a-3f4ae2d66e33: Winner - Sunrisers Hyderabad, Top Batsman - Ishan Kishan, Top Wicket Taker - Tushar Deshpande
+Match Winner: Chennai Super Kings
+Top Batsman: Rachin Ravindra (65 runs)
+Top Wicket Taker: Noor Ahmad (4 wickets)
+Updated results for match 208d68e5-3fab-4f3b-88e9-29ec4a02d3e2: Winner - Chennai Super Kings, Top Batsman - Rachin Ravindra, Top Wicket Taker - Noor Ahmad
+Match Winner: Delhi Capitals
+Top Batsman: Nicholas Pooran (75 runs)
+Top Wicket Taker: Mitchell Starc (3 wickets)
+Updated results for match c6e97609-d9c1-46eb-805a-e282b34f3bb1: Winner - Delhi Capitals, Top Batsman - Nicholas Pooran, Top Wicket Taker - Mitchell Starc
+Match Winner: Gujarat Titans
+Top Batsman: Jos Buttler (73 runs)
+Top Wicket Taker: Mohammed Siraj (3 wickets)
+Updated results for match 64e88ffc-606f-4d4f-b848-310f1ec7a98a: Winner - Gujarat Titans, Top Batsman - Jos Buttler, Top Wicket Taker - Mohammed Siraj
+Match Winner: Punjab Kings
+Top Batsman: Shreyas Iyer (97 runs)
+Top Wicket Taker: Ravisrinivasan Sai Kishore (3 wickets)
+Updated results for match 83d70527-5fc4-4fad-8dd2-b88b385f379e: Winner - Punjab Kings, Top Batsman - Shreyas Iyer, Top Wicket Taker - Ravisrinivasan Sai Kishore
+Match Winner: Lucknow Super Giants
+Top Batsman: Nicholas Pooran (70 runs)
+Top Wicket Taker: Shardul Thakur (4 wickets)
+Updated results for match ab4e0813-1e78-467e-aca0-d80c5cfe7dbd: Winner - Lucknow Super Giants, Top Batsman - Nicholas Pooran, Top Wicket Taker - Shardul Thakur
+Match Winner: Kolkata Knight Riders
+Top Batsman: Quinton de Kock (97 runs)
+Top Wicket Taker: Vaibhav Arora (2 wickets)
+Updated results for match fd459f45-6e79-42c5-84e4-d046f291cacf: Winner - Kolkata Knight Riders, Top Batsman - Quinton de Kock, Top Wicket Taker - Vaibhav Arora
+Match Winner: Rajasthan Royals
+Top Batsman: Nitish Rana (81 runs)
+Top Wicket Taker: Wanindu Hasaranga (4 wickets)
+Updated results for match 057ce3fb-8117-47fe-bf25-be0ed8a56dd0: Winner - Rajasthan Royals, Top Batsman - Nitish Rana, Top Wicket Taker - Wanindu Hasaranga
+Match Winner: Royal Challengers Bengaluru
+Top Batsman: Rajat Patidar (51 runs)
+Top Wicket Taker: Noor Ahmad (3 wickets)
+Updated results for match 7431523f-7ccb-4a4a-aed7-5c42fc08464c: Winner - Royal Challengers Bengaluru, Top Batsman - Rajat Patidar, Top Wicket Taker - Noor Ahmad
+Match Winner: Gujarat Titans
+Top Batsman: Sai Sudharsan (63 runs)
+Top Wicket Taker: Hardik Pandya (2 wickets)
+Updated results for match f5ed540f-15c7-4189-a5d4-e54be746a522: Winner - Gujarat Titans, Top Batsman - Sai Sudharsan, Top Wicket Taker - Hardik Pandya
+Match Winner: Delhi Capitals
+Top Batsman: Aniket Verma (74 runs)
+Top Wicket Taker: Mitchell Starc (5 wickets)
+Updated results for match af5cf1dd-b3d4-4e8d-8660-e5e27cd5202e: Winner - Delhi Capitals, Top Batsman - Aniket Verma, Top Wicket Taker - Mitchell Starc
+Match Winner: Punjab Kings
+Top Batsman: Prabhsimran Singh (69 runs)
+Top Wicket Taker: Arshdeep Singh (3 wickets)
+Updated results for match 7896feec-8fd6-44ef-aee3-eabb679e6305: Winner - Punjab Kings, Top Batsman - Prabhsimran Singh, Top Wicket Taker - Arshdeep Singh
+Match Winner: Mumbai Indians
+Top Batsman: Ryan Rickelton (62 runs)
+Top Wicket Taker: Ashwani Kumar (4 wickets)
+Updated results for match 075649ef-6ca8-4f50-8143-87814b828ea0: Winner - Mumbai Indians, Top Batsman - Ryan Rickelton, Top Wicket Taker - Ashwani Kumar
+Match Winner: Kolkata Knight Riders
+Top Batsman: Venkatesh Iyer (60 runs)
+Top Wicket Taker: Vaibhav Arora (3 wickets)
+Updated results for match d5915da0-c08b-4122-bcb0-2c2e1e6e168a: Winner - Kolkata Knight Riders, Top Batsman - Venkatesh Iyer, Top Wicket Taker - Vaibhav Arora
+Match Winner: Royal Challengers Bengaluru
+Top Batsman: Virat Kohli (59 runs)
+Top Wicket Taker: Krunal Pandya (3 wickets)
+Updated results for match cacf2d34-41b8-41dd-91ed-5183d880084c: Winner - Royal Challengers Bengaluru, Top Batsman - Virat Kohli, Top Wicket Taker - Krunal Pandya
+Match Winner: Sunrisers Hyderabad
+Top Batsman: Ishan Kishan (106 runs)
+Top Wicket Taker: Tushar Deshpande (3 wickets)
+Updated results for match 91b007f3-c0af-493f-808a-3f4ae2d66e33: Winner - Sunrisers Hyderabad, Top Batsman - Ishan Kishan, Top Wicket Taker - Tushar Deshpande
+Match Winner: Chennai Super Kings
+Top Batsman: Rachin Ravindra (65 runs)
+Top Wicket Taker: Noor Ahmad (4 wickets)
+Updated results for match 208d68e5-3fab-4f3b-88e9-29ec4a02d3e2: Winner - Chennai Super Kings, Top Batsman - Rachin Ravindra, Top Wicket Taker - Noor Ahmad
+Match Winner: Delhi Capitals
+Top Batsman: Nicholas Pooran (75 runs)
+Top Wicket Taker: Mitchell Starc (3 wickets)
+Updated results for match c6e97609-d9c1-46eb-805a-e282b34f3bb1: Winner - Delhi Capitals, Top Batsman - Nicholas Pooran, Top Wicket Taker - Mitchell Starc
+Match Winner: Gujarat Titans
+Top Batsman: Jos Buttler (73 runs)
+Top Wicket Taker: Mohammed Siraj (3 wickets)
+Updated results for match 64e88ffc-606f-4d4f-b848-310f1ec7a98a: Winner - Gujarat Titans, Top Batsman - Jos Buttler, Top Wicket Taker - Mohammed Siraj
+Match Winner: Punjab Kings
+Top Batsman: Shreyas Iyer (97 runs)
+Top Wicket Taker: Ravisrinivasan Sai Kishore (3 wickets)
+Updated results for match 83d70527-5fc4-4fad-8dd2-b88b385f379e: Winner - Punjab Kings, Top Batsman - Shreyas Iyer, Top Wicket Taker - Ravisrinivasan Sai Kishore
+Match Winner: Lucknow Super Giants
+Top Batsman: Nicholas Pooran (70 runs)
+Top Wicket Taker: Shardul Thakur (4 wickets)
+Updated results for match ab4e0813-1e78-467e-aca0-d80c5cfe7dbd: Winner - Lucknow Super Giants, Top Batsman - Nicholas Pooran, Top Wicket Taker - Shardul Thakur
+Match Winner: Kolkata Knight Riders
+Top Batsman: Quinton de Kock (97 runs)
+Top Wicket Taker: Vaibhav Arora (2 wickets)
+Updated results for match fd459f45-6e79-42c5-84e4-d046f291cacf: Winner - Kolkata Knight Riders, Top Batsman - Quinton de Kock, Top Wicket Taker - Vaibhav Arora
+Match Winner: Rajasthan Royals
+Top Batsman: Nitish Rana (81 runs)
+Top Wicket Taker: Wanindu Hasaranga (4 wickets)
+Updated results for match 057ce3fb-8117-47fe-bf25-be0ed8a56dd0: Winner - Rajasthan Royals, Top Batsman - Nitish Rana, Top Wicket Taker - Wanindu Hasaranga
+Match Winner: Royal Challengers Bengaluru
+Top Batsman: Rajat Patidar (51 runs)
+Top Wicket Taker: Noor Ahmad (3 wickets)
+Updated results for match 7431523f-7ccb-4a4a-aed7-5c42fc08464c: Winner - Royal Challengers Bengaluru, Top Batsman - Rajat Patidar, Top Wicket Taker - Noor Ahmad
+Match Winner: Gujarat Titans
+Top Batsman: Sai Sudharsan (63 runs)
+Top Wicket Taker: Hardik Pandya (2 wickets)
+Updated results for match f5ed540f-15c7-4189-a5d4-e54be746a522: Winner - Gujarat Titans, Top Batsman - Sai Sudharsan, Top Wicket Taker - Hardik Pandya
+Match Winner: Delhi Capitals
+Top Batsman: Aniket Verma (74 runs)
+Top Wicket Taker: Mitchell Starc (5 wickets)
+Updated results for match af5cf1dd-b3d4-4e8d-8660-e5e27cd5202e: Winner - Delhi Capitals, Top Batsman - Aniket Verma, Top Wicket Taker - Mitchell Starc
+Match Winner: Punjab Kings
+Top Batsman: Prabhsimran Singh (69 runs)
+Top Wicket Taker: Arshdeep Singh (3 wickets)
+Updated results for match 7896feec-8fd6-44ef-aee3-eabb679e6305: Winner - Punjab Kings, Top Batsman - Prabhsimran Singh, Top Wicket Taker - Arshdeep Singh
+Match Winner: Mumbai Indians
+Top Batsman: Ryan Rickelton (62 runs)
+Top Wicket Taker: Ashwani Kumar (4 wickets)
+Updated results for match 075649ef-6ca8-4f50-8143-87814b828ea0: Winner - Mumbai Indians, Top Batsman - Ryan Rickelton, Top Wicket Taker - Ashwani Kumar
+Match Winner: Kolkata Knight Riders
+Top Batsman: Venkatesh Iyer (60 runs)
+Top Wicket Taker: Vaibhav Arora (3 wickets)
+Updated results for match d5915da0-c08b-4122-bcb0-2c2e1e6e168a: Winner - Kolkata Knight Riders, Top Batsman - Venkatesh Iyer, Top Wicket Taker - Vaibhav Arora
+Match Winner: Royal Challengers Bengaluru
+Top Batsman: Virat Kohli (59 runs)
+Top Wicket Taker: Krunal Pandya (3 wickets)
+Updated results for match cacf2d34-41b8-41dd-91ed-5183d880084c: Winner - Royal Challengers Bengaluru, Top Batsman - Virat Kohli, Top Wicket Taker - Krunal Pandya
+Match Winner: Sunrisers Hyderabad
+Top Batsman: Ishan Kishan (106 runs)
+Top Wicket Taker: Tushar Deshpande (3 wickets)
+Updated results for match 91b007f3-c0af-493f-808a-3f4ae2d66e33: Winner - Sunrisers Hyderabad, Top Batsman - Ishan Kishan, Top Wicket Taker - Tushar Deshpande
+Match Winner: Chennai Super Kings
+Top Batsman: Rachin Ravindra (65 runs)
+Top Wicket Taker: Noor Ahmad (4 wickets)
+Updated results for match 208d68e5-3fab-4f3b-88e9-29ec4a02d3e2: Winner - Chennai Super Kings, Top Batsman - Rachin Ravindra, Top Wicket Taker - Noor Ahmad
+Match Winner: Delhi Capitals
+Top Batsman: Nicholas Pooran (75 runs)
+Top Wicket Taker: Mitchell Starc (3 wickets)
+Updated results for match c6e97609-d9c1-46eb-805a-e282b34f3bb1: Winner - Delhi Capitals, Top Batsman - Nicholas Pooran, Top Wicket Taker - Mitchell Starc
+Match Winner: Gujarat Titans
+Top Batsman: Jos Buttler (73 runs)
+Top Wicket Taker: Mohammed Siraj (3 wickets)
+Updated results for match 64e88ffc-606f-4d4f-b848-310f1ec7a98a: Winner - Gujarat Titans, Top Batsman - Jos Buttler, Top Wicket Taker - Mohammed Siraj
+Match Winner: Punjab Kings
+Top Batsman: Shreyas Iyer (97 runs)
+Top Wicket Taker: Ravisrinivasan Sai Kishore (3 wickets)
+Updated results for match 83d70527-5fc4-4fad-8dd2-b88b385f379e: Winner - Punjab Kings, Top Batsman - Shreyas Iyer, Top Wicket Taker - Ravisrinivasan Sai Kishore
+Match Winner: Lucknow Super Giants
+Top Batsman: Nicholas Pooran (70 runs)
+Top Wicket Taker: Shardul Thakur (4 wickets)
+Updated results for match ab4e0813-1e78-467e-aca0-d80c5cfe7dbd: Winner - Lucknow Super Giants, Top Batsman - Nicholas Pooran, Top Wicket Taker - Shardul Thakur
+Match Winner: Kolkata Knight Riders
+Top Batsman: Quinton de Kock (97 runs)
+Top Wicket Taker: Vaibhav Arora (2 wickets)
+Updated results for match fd459f45-6e79-42c5-84e4-d046f291cacf: Winner - Kolkata Knight Riders, Top Batsman - Quinton de Kock, Top Wicket Taker - Vaibhav Arora
+Match Winner: Rajasthan Royals
+Top Batsman: Nitish Rana (81 runs)
+Top Wicket Taker: Wanindu Hasaranga (4 wickets)
+Updated results for match 057ce3fb-8117-47fe-bf25-be0ed8a56dd0: Winner - Rajasthan Royals, Top Batsman - Nitish Rana, Top Wicket Taker - Wanindu Hasaranga
+Match Winner: Royal Challengers Bengaluru
+Top Batsman: Rajat Patidar (51 runs)
+Top Wicket Taker: Noor Ahmad (3 wickets)
+Updated results for match 7431523f-7ccb-4a4a-aed7-5c42fc08464c: Winner - Royal Challengers Bengaluru, Top Batsman - Rajat Patidar, Top Wicket Taker - Noor Ahmad
+Match Winner: Gujarat Titans
+Top Batsman: Sai Sudharsan (63 runs)
+Top Wicket Taker: Hardik Pandya (2 wickets)
+Updated results for match f5ed540f-15c7-4189-a5d4-e54be746a522: Winner - Gujarat Titans, Top Batsman - Sai Sudharsan, Top Wicket Taker - Hardik Pandya
+Match Winner: Delhi Capitals
+Top Batsman: Aniket Verma (74 runs)
+Top Wicket Taker: Mitchell Starc (5 wickets)
+Updated results for match af5cf1dd-b3d4-4e8d-8660-e5e27cd5202e: Winner - Delhi Capitals, Top Batsman - Aniket Verma, Top Wicket Taker - Mitchell Starc
+Match Winner: Punjab Kings
+Top Batsman: Prabhsimran Singh (69 runs)
+Top Wicket Taker: Arshdeep Singh (3 wickets)
+Updated results for match 7896feec-8fd6-44ef-aee3-eabb679e6305: Winner - Punjab Kings, Top Batsman - Prabhsimran Singh, Top Wicket Taker - Arshdeep Singh
+Match Winner: Mumbai Indians
+Top Batsman: Ryan Rickelton (62 runs)
+Top Wicket Taker: Ashwani Kumar (4 wickets)
+Updated results for match 075649ef-6ca8-4f50-8143-87814b828ea0: Winner - Mumbai Indians, Top Batsman - Ryan Rickelton, Top Wicket Taker - Ashwani Kumar
+Match Winner: Kolkata Knight Riders
+Top Batsman: Venkatesh Iyer (60 runs)
+Top Wicket Taker: Vaibhav Arora (3 wickets)
+Updated results for match d5915da0-c08b-4122-bcb0-2c2e1e6e168a: Winner - Kolkata Knight Riders, Top Batsman - Venkatesh Iyer, Top Wicket Taker - Vaibhav Arora
+Match Winner: Royal Challengers Bengaluru
+Top Batsman: Virat Kohli (59 runs)
+Top Wicket Taker: Krunal Pandya (3 wickets)
+Updated results for match cacf2d34-41b8-41dd-91ed-5183d880084c: Winner - Royal Challengers Bengaluru, Top Batsman - Virat Kohli, Top Wicket Taker - Krunal Pandya
+Match Winner: Sunrisers Hyderabad
+Top Batsman: Ishan Kishan (106 runs)
+Top Wicket Taker: Tushar Deshpande (3 wickets)
+Updated results for match 91b007f3-c0af-493f-808a-3f4ae2d66e33: Winner - Sunrisers Hyderabad, Top Batsman - Ishan Kishan, Top Wicket Taker - Tushar Deshpande
+Match Winner: Chennai Super Kings
+Top Batsman: Rachin Ravindra (65 runs)
+Top Wicket Taker: Noor Ahmad (4 wickets)
+Updated results for match 208d68e5-3fab-4f3b-88e9-29ec4a02d3e2: Winner - Chennai Super Kings, Top Batsman - Rachin Ravindra, Top Wicket Taker - Noor Ahmad
+Match Winner: Delhi Capitals
+Top Batsman: Nicholas Pooran (75 runs)
+Top Wicket Taker: Mitchell Starc (3 wickets)
+Updated results for match c6e97609-d9c1-46eb-805a-e282b34f3bb1: Winner - Delhi Capitals, Top Batsman - Nicholas Pooran, Top Wicket Taker - Mitchell Starc
+Match Winner: Gujarat Titans
+Top Batsman: Jos Buttler (73 runs)
+Top Wicket Taker: Mohammed Siraj (3 wickets)
+Updated results for match 64e88ffc-606f-4d4f-b848-310f1ec7a98a: Winner - Gujarat Titans, Top Batsman - Jos Buttler, Top Wicket Taker - Mohammed Siraj

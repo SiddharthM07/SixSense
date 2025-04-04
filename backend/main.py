@@ -30,31 +30,30 @@ app.add_middleware(SessionMiddleware, secret_key="your_secret_key_here")
 
 # Initialize FastAPI router
 router = APIRouter()
-templates = Jinja2Templates(directory="templates")
+
+# Use absolute path for templates
+base_dir = os.path.abspath(os.path.dirname(__file__))
+templates = Jinja2Templates(directory=os.path.join(base_dir, "templates"))
 
 # Password hashing
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
 # Define paths at the beginning
-sixsense_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+sixsense_root = os.path.abspath(os.path.join(base_dir, ".."))
 frontend_dir = os.path.join(sixsense_root, "Frontend")
 frontend_path = os.path.join(frontend_dir, "routes.py")
 
 # ---------------------- [ Serve HTML Pages ] ----------------------
 
-
 @router.get("/login/", response_class=HTMLResponse)
 def login_page(request: Request):
     return templates.TemplateResponse("login.html", {"request": request})
-
 
 @router.get("/register/", response_class=HTMLResponse)
 def register_page(request: Request):
     return templates.TemplateResponse("register.html", {"request": request})
 
-
 # ---------------------- [ Handle Register ] ----------------------
-
 
 @router.post("/signup/")
 def register_user(request: Request, username: str = Form(...), email: str = Form(...), password: str = Form(...)):
@@ -70,9 +69,7 @@ def register_user(request: Request, username: str = Form(...), email: str = Form
 
     return RedirectResponse(url="/login/", status_code=HTTP_302_FOUND)
 
-
 # ---------------------- [ Handle Login ] ----------------------
-
 
 @router.post("/login/")
 def login_user(request: Request, username: str = Form(...), password: str = Form(...)):
@@ -90,12 +87,10 @@ def login_user(request: Request, username: str = Form(...), password: str = Form
 
     return RedirectResponse(url=f"http://127.0.0.1:5000/matches?user_id={db_user['id']}", status_code=303)
 
-
 # Include router in the FastAPI app
 app.include_router(router)
 
 # ---------------------- [ Leaderboard API ] ----------------------
-
 
 @router.get("/leaderboard", response_class=JSONResponse)
 def get_leaderboard(request: Request):
@@ -139,16 +134,14 @@ def get_leaderboard(request: Request):
         print("Error fetching leaderboard:", str(e))
         return JSONResponse(content={"error": "Internal Server Error"}, status_code=500)
 
-
 # ---------------------- [ LOGOUT ] ----------------------
-
 
 @router.get("/logout/")
 def logout(request: Request):
     request.session.clear()
     print("User logged out")
+    login_url = request.url_for("login_page")
     return RedirectResponse(url="/login/", status_code=303)
-
 
 app.include_router(router)
 

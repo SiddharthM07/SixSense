@@ -44,7 +44,7 @@ IST = pytz.timezone("Asia/Kolkata")
 @router.get("/", response_class=HTMLResponse)
 @router.get("/matches", response_class=HTMLResponse)
 async def get_matches(request: Request, user_id: str = Query(default=None)):
-    templates = get_templates()  # ✅ Use lazy import here
+    templates = get_templates()
 
     if user_id:
         request.session["user_id"] = user_id
@@ -60,7 +60,11 @@ async def get_matches(request: Request, user_id: str = Query(default=None)):
     for match in matches:
         try:
             match_time = parse_match_date(match["match_date"])
-            match["prediction_open"] = 600 <= (match_time - now).total_seconds() <= 108000
+            match["status"] = match["status"].strip().lower()  # Normalize status
+            if match["status"] not in ["in-progress", "completed"]:
+                match["prediction_open"] = 600 <= (match_time - now).total_seconds() <= 108000
+            else:
+                match["prediction_open"] = False
             match["match_date_display"] = match["match_date"].replace("T", " ")
         except Exception as e:
             print(f"⚠️ Error parsing match date: {e}")

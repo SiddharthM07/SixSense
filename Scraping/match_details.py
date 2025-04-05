@@ -16,7 +16,7 @@ SUPABASE_API_KEY = os.getenv("SUPABASE_API_KEY")
 supabase = create_client(SUPABASE_URL, SUPABASE_API_KEY)
 
 # CricAPI details
-API_KEY = os.getenv("CRICAPI_KEY ")
+API_KEY = os.getenv("CRICAPI_KEY")
 SERIES_ID = "d5a498c8-7596-4b93-8ab0-e0efc3345312"
 SERIES_INFO_URL = (
     f"https://api.cricapi.com/v1/series_info?apikey={API_KEY}&id={SERIES_ID}"

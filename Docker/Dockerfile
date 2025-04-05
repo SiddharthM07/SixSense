@@ -7,7 +7,7 @@ WORKDIR /app
 RUN apk add --no-cache gcc musl-dev python3-dev libffi-dev
 
 # Copy requirements and install dependencies
-COPY requirements.txt /app/  # Ensure requirements.txt is in the build context
+COPY requirements.txt /app/  
 RUN pip install --no-cache-dir -r requirements.txt && \
     rm -rf /root/.cache  # Clean up caches to reduce image size
 

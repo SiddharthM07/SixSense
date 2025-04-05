@@ -1,30 +1,34 @@
-# Use a minimal base image
+# Stage 1: Build dependencies
 FROM python:3.11-alpine AS builder
 
 WORKDIR /app
 
-# Install required system dependencies
+# Install system dependencies
 RUN apk add --no-cache gcc musl-dev python3-dev libffi-dev
 
 # Copy requirements and install dependencies
-COPY ../requirements.txt /app/
-RUN pip install --no-cache-dir -r requirements.txt  
+COPY requirements.txt /app/  # Ensure requirements.txt is in the build context
+RUN pip install --no-cache-dir -r requirements.txt && \
+    rm -rf /root/.cache  # Clean up caches to reduce image size
 
-# MultiBuild
+# Stage 2: Final runtime image
 FROM python:3.11-alpine
 
 WORKDIR /app
 
-# Install necessary libraries
+# Install runtime libraries
 RUN apk add --no-cache libffi
 
-# Fix: Copy dependencies from the correct path
-COPY --from=builder /usr/local /usr/local  
-COPY ../ /app/  
+# Copy Python dependencies and application code from the builder stage
+COPY --from=builder /usr/local /usr/local
+COPY . /app/  
 
-ENV PATH="/usr/local/bin:$PATH"
-ENV PYTHONPATH="/app/backend"  
+# Set environment variables
+ENV PATH="/usr/local/bin:$PATH" \
+    PYTHONPATH="/app/backend"
 
-EXPOSE 5001  
+# Expose port
+EXPOSE 5001
 
-CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "5001", "--reload"]
+# Start the application
+CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "5001"]

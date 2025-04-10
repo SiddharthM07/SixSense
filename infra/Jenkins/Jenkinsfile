@@ -4,6 +4,7 @@ pipeline {
     environment {
         DOCKER_IMAGE = "siddharth1218/sixsense:latest"
         DOCKER_CREDENTIALS = "docker-credentials"
+        // You can also set credentials here if you want to access other secrets
     }
 
     stages {
@@ -38,7 +39,20 @@ pipeline {
 
         stage('Deploying Container') {
             steps {
-                sh 'docker run -d --name sixsense-container --env-file /home/ubuntu/.env -p 5001:5001 $DOCKER_IMAGE'
+                withCredentials([
+                    string(credentialsId: 'SUPABASE_URL', variable: 'SUPABASE_URL'),
+                    string(credentialsId: 'SUPABASE_API_KEY', variable: 'SUPABASE_API_KEY'),
+                    string(credentialsId: 'CRICAPI_KEY', variable: 'CRICAPI_KEY')
+                ]) {
+                    // Run Docker container with environment variables passed from Jenkins secrets
+                    sh """
+                    docker run -d --name sixsense-container \
+                        -e SUPABASE_URL=$SUPABASE_URL \
+                        -e SUPABASE_API_KEY=$SUPABASE_API_KEY \
+                        -e CRICAPI_KEY=$CRICAPI_KEY \
+                        -p 5001:5001 $DOCKER_IMAGE
+                    """
+                }
             }
         }
     }

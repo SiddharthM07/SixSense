@@ -7198,3 +7198,1620 @@ Current IST time: 2025-04-10 23:30:02.195009+05:30
 Match time (IST): 2025-05-10 19:30:00+05:30
 Current IST time: 2025-04-10 23:30:02.195009+05:30
 Match time (IST): 2025-04-05 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-03-23 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-03-25 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-03 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-04 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-05 15:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-11 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-12 15:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-12 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-13 15:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-26 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-03-22 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-18 15:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-03-23 15:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-03-24 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-03-26 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-03-29 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-03-30 15:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-03-30 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-03-31 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-01 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-02 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-11 15:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-11 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-12 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-13 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-14 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-15 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-16 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-17 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-13 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-14 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-15 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-16 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-17 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-18 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-19 15:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-19 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-20 15:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-20 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-21 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-22 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-23 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-24 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-25 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-27 15:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-27 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-28 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-29 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-30 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-01 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-02 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-03 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-04 15:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-04 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-05 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-06 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-09 19:30:00+05:30
+Match 71213f27-c274-48b0-97f7-ec74e895dcbe completed, status updated to 'completed'.
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-08 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-06 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-07 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-08 15:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-10 19:30:00+05:30
+Match 3f309c2d-75dd-48bc-9d9f-e3979e252949 completed, status updated to 'completed'.
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-07 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-08 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-09 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-20 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-21 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-23 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-25 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-18 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-03-27 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-03-28 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-05-10 19:30:00+05:30
+Current IST time: 2025-04-11 14:30:17.011251+05:30
+Match time (IST): 2025-04-05 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-03-23 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-03-25 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-03 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-04 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-05 15:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-11 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-12 15:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-12 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-13 15:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-26 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-03-22 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-18 15:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-03-23 15:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-03-24 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-03-26 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-03-29 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-03-30 15:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-03-30 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-03-31 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-01 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-02 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-11 15:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-11 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-12 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-13 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-14 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-15 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-16 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-17 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-13 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-14 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-15 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-16 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-17 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-18 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-19 15:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-19 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-20 15:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-20 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-21 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-22 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-23 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-24 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-25 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-27 15:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-27 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-28 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-29 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-30 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-01 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-02 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-03 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-04 15:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-04 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-05 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-06 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-10 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-08 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-06 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-07 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-08 15:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-09 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-07 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-08 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-09 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-20 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-21 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-23 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-25 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-18 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-03-27 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-03-28 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-05-10 19:30:00+05:30
+Current IST time: 2025-04-11 15:30:58.985172+05:30
+Match time (IST): 2025-04-05 19:30:00+05:30
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-03-23 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-03-25 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-03 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-04 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-05 15:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-11 19:30:00+05:30
+Match b39bbd39-c67f-4892-9a48-02e958946718 started, status updated to 'in progress'.
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-12 15:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-12 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-13 15:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-26 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-03-22 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-18 15:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-03-23 15:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-03-24 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-03-26 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-03-29 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-03-30 15:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-03-30 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-03-31 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-01 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-02 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-11 15:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-11 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-12 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-13 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-14 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-15 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-16 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-17 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-13 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-14 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-15 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-16 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-17 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-18 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-19 15:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-19 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-20 15:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-20 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-21 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-22 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-23 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-24 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-25 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-27 15:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-27 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-28 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-29 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-30 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-01 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-02 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-03 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-04 15:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-04 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-05 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-06 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-10 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-08 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-06 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-07 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-08 15:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-09 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-07 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-08 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-09 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-20 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-21 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-23 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-25 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-18 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-03-27 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-03-28 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-05-10 19:30:00+05:30
+Current IST time: 2025-04-11 22:30:02.239847+05:30
+Match time (IST): 2025-04-05 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-03-23 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-03-25 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-03 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-04 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-05 15:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-12 15:30:00+05:30
+Match 35938151-73ee-4969-8153-db8aabee3b90 started, status updated to 'in progress'.
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-12 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-13 15:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-26 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-03-22 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-18 15:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-03-23 15:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-03-24 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-03-26 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-03-29 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-03-30 15:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-03-30 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-03-31 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-01 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-02 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-11 15:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-11 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-12 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-13 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-14 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-15 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-16 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-17 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-13 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-14 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-15 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-16 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-17 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-18 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-19 15:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-19 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-20 15:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-20 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-21 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-22 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-23 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-24 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-25 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-27 15:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-27 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-28 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-29 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-30 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-01 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-02 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-03 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-04 15:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-04 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-05 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-06 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-10 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-08 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-06 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-07 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-08 15:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-11 19:30:00+05:30
+Match b39bbd39-c67f-4892-9a48-02e958946718 completed, status updated to 'completed'.
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-09 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-07 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-08 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-09 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-20 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-21 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-23 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-25 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-18 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-03-27 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-03-28 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-05-10 19:30:00+05:30
+Current IST time: 2025-04-12 15:30:02.734398+05:30
+Match time (IST): 2025-04-05 19:30:00+05:30
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 60, in <module>
+    update_match_status()
+  File "/home/siddharth/SixSense/Scraping/update_match_status.py", line 21, in update_match_status
+    supabase.table("matches").select("match_id, match_date, status").execute().data
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/postgrest/_sync/request_builder.py", line 58, in execute
+    r = self.session.request(
+        ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/home/siddharth/SixSense/venv/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout: timed out

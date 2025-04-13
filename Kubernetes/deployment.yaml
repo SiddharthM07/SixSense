@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sixsense-deployment
+  labels:
+    app: sixsense
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: sixsense
+  template:
+    metadata:
+      labels:
+        app: sixsense
+    spec:
+      containers:
+        - name: sixsense-container
+          image: siddharth1218/sixsense:latest
+          ports:
+            - containerPort: 5001
+          env:
+            - name: SUPABASE_URL
+              valueFrom:
+                secretKeyRef:
+                  name: sixsense-secrets
+                  key: SUPABASE_URL
+            - name: SUPABASE_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: sixsense-secrets
+                  key: SUPABASE_API_KEY
+            - name: CRICAPI_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: sixsense-secrets
+                  key: CRICAPI_KEY

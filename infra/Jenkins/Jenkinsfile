@@ -4,7 +4,6 @@ pipeline {
     environment {
         DOCKER_IMAGE = "siddharth1218/sixsense:latest"
         DOCKER_CREDENTIALS = "docker-credentials"
-        // You can also set credentials here if you want to access other secrets
     }
 
     stages {
@@ -24,7 +23,7 @@ pipeline {
 
         stage('Build Docker Image') {
             steps {
-                sh 'docker build -t siddharth1218/sixsense:latest -f Docker/Dockerfile .'
+                sh 'docker build -t $DOCKER_IMAGE -f Docker/Dockerfile .'
             }
         }
 
@@ -37,22 +36,30 @@ pipeline {
             }
         }
 
-        stage('Deploying Container') {
+        stage('Create Kubernetes Secret') {
             steps {
                 withCredentials([
                     string(credentialsId: 'SUPABASE_URL', variable: 'SUPABASE_URL'),
                     string(credentialsId: 'SUPABASE_API_KEY', variable: 'SUPABASE_API_KEY'),
                     string(credentialsId: 'CRICAPI_KEY', variable: 'CRICAPI_KEY')
                 ]) {
-                    // Run Docker container with environment variables passed from Jenkins secrets
-                    sh """
-                    docker run -d --name sixsense-container \
-                        -e SUPABASE_URL=$SUPABASE_URL \
-                        -e SUPABASE_API_KEY=$SUPABASE_API_KEY \
-                        -e CRICAPI_KEY=$CRICAPI_KEY \
-                        -p 5001:5001 $DOCKER_IMAGE
-                    """
+                    sh '''
+                    kubectl delete secret sixsense-secrets --ignore-not-found=true
+                    kubectl create secret generic sixsense-secrets \
+                      --from-literal=SUPABASE_URL=$SUPABASE_URL \
+                      --from-literal=SUPABASE_API_KEY=$SUPABASE_API_KEY \
+                      --from-literal=CRICAPI_KEY=$CRICAPI_KEY
+                    '''
                 }
+            }
+        }
+
+        stage('Deploy to Kubernetes') {
+            steps {
+                sh '''
+                kubectl apply -f Kubernetes/deployment.yaml
+                kubectl apply -f Kubernetes/service.yaml
+                '''
             }
         }
     }

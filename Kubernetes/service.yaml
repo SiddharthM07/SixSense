@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: sixsense-service
+spec:
+  selector:
+    app: sixsense
+  type: NodePort
+  ports:
+    - port: 5001         
+      targetPort: 5001   
+      nodePort: 30001    

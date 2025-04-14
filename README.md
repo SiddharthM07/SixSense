@@ -41,7 +41,7 @@ ________________________________________
  Learnings & Challenges
  =========================
 •	Initially imported API keys and database URLs using a .env file, which wasn't ideal. Switched to using Jenkins credentials and injected them securely through the pipeline.
-•	Faced several issues during implementation — leveraged ChatGPT (shoutout!) to debug and overcome most of them.
+•	Faced several issues during implementation — leveraged ChatGPT/Copilot to debug and overcome most of them.
 •	Gained hands-on experience in end-to-end DevOps flow, from infrastructure provisioning to monitoring and alerting.
 ________________________________________
 

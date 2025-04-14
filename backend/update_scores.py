@@ -94,6 +94,6 @@ def process_match_results(match_id):
             update_user_score(user_id, total_points)
 
 
-# Example: Processing results for match ID 1
+
 if __name__ == "__main__":
     process_match_results(1)

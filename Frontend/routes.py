@@ -10,9 +10,9 @@ from fastapi.responses import HTMLResponse, RedirectResponse
 from supabase import create_client
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "backend")))
-from utils import get_user_id, parse_match_date, flash  # Importing utility functions
+from utils import get_user_id, parse_match_date, flash  
 
-# ✅ Lazy import function to avoid circular import
+
 def get_templates():
     from main import templates
     return templates
@@ -78,7 +78,7 @@ async def predict(request: Request, match_id: str):
 
     templates = get_templates()
 
-    # Ensure user is logged in
+    
     user_id = request.session.get("user_id")
     if not user_id:
         return RedirectResponse("/login")
@@ -97,7 +97,7 @@ async def predict(request: Request, match_id: str):
     team1_players = [p for p in all_players if p["team_name"] == match["team1"]]
     team2_players = [p for p in all_players if p["team_name"] == match["team2"]]
 
-    # Classify players by role
+    # Classify players by role can include allorunders in both if needed
     batsmen = [
         p
         for p in team1_players + team2_players
@@ -109,12 +109,12 @@ async def predict(request: Request, match_id: str):
         if "Bowler" in p["role"] or "Bowling Allrounder" in p["role"]
     ]
 
-    # Pass session explicitly to the template context
+   
     return templates.TemplateResponse(
         "predict.html",
         {
             "request": request,
-            "session": request.session,  # ✅ Include session in the context
+            "session": request.session, 
             "match": match,
             "batsmen": batsmen,
             "bowlers": bowlers,

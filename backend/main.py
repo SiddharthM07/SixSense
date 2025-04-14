@@ -26,18 +26,18 @@ supabase = create_client(SUPABASE_URL, SUPABASE_API_KEY)
 app = FastAPI()
 app.add_middleware(SessionMiddleware, secret_key=os.getenv("FLASK_SECRET_KEY", "your_secret_key_here"))
 
-# ✅ Initialize templates here
+# Initialize templates here
 templates = Jinja2Templates(directory=os.path.join(sixsense_root, "templates"))
 
 # ---------------------- [ Import Utility Functions ] ----------------------
 from utils import flash, get_flashed_messages
 
-# ✅ Updated wrapper function to include `request` explicitly
+
 def get_flashed_messages_wrapper(request, *args, **kwargs):
     # Pass `request` and additional arguments to the original function
     return get_flashed_messages(request, *args, **kwargs)
 
-# ✅ Register globals for Jinja2 templates
+
 templates.env.globals["get_flashed_messages"] = get_flashed_messages_wrapper
 templates.env.globals["flash"] = flash
 

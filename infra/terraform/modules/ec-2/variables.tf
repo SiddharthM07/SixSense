@@ -2,14 +2,14 @@ variable "instance_type" {
     default = "t2.micro"
 }
 variable "key_name" {
-    default = "my_aws_key"
+    default = "aws-key"
 }
 variable "AMI_ID" {
-    default = "ami-0e35ddab05955cf57"
+    default = "ami-xxx"
 }
 variable "security_groups" {}
 variable "environment" {}
 variable "aws_region" {
-    default = "ap-south-1"
+    default = "enter-region"
 }
 

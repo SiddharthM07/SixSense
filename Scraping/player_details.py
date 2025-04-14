@@ -5,6 +5,8 @@ from dotenv import load_dotenv
 from supabase import Client, create_client
 
 # TO fetch top Bastman/Bolwer from API and to insert into Table
+#we can schedule this as a cronjob to update the results of the matches 
+
 load_dotenv()
 
 SUPABASE_URL = os.getenv("SUPABASE_URL")

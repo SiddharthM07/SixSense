@@ -15,14 +15,14 @@ def create_user(username, email, hashed_password):
     url = f"{SUPABASE_URL}/rest/v1/users"
     headers = {
         "apikey": SUPABASE_API_KEY,
-        "Authorization": f"Bearer {SUPABASE_API_KEY}",  # ✅ Fix
+        "Authorization": f"Bearer {SUPABASE_API_KEY}",  
         "Content-Type": "application/json",
     }
     data = {"username": username, "email": email, "hashed_password": hashed_password}
 
     response = requests.post(url, json=data, headers=headers)
-    print("Response Status Code:", response.status_code)  # ✅ Debugging
-    print("Response Text:", response.text)  # ✅ Debugging
+    print("Response Status Code:", response.status_code)  
+    print("Response Text:", response.text)  
     return (
         response.json()
         if response.text
@@ -34,10 +34,10 @@ def get_user_by_username(username):
     url = f"{SUPABASE_URL}/rest/v1/users?username=eq.{username}"
     headers = {
         "apikey": SUPABASE_API_KEY,
-        "Authorization": f"Bearer {SUPABASE_API_KEY}",  # ✅ Fix
+        "Authorization": f"Bearer {SUPABASE_API_KEY}",  
         "Content-Type": "application/json",
     }
 
     response = requests.get(url, headers=headers)
-    print("Get User Response:", response.text)  # ✅ Debugging
+    print("Get User Response:", response.text)  
     return response.json() if response.status_code == 200 else None

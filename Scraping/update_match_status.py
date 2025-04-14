@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 from supabase import create_client
 
 # To update match status to completed after 5 hours
+#we can schedule this as a cronjob to update the results of the matches 
 
 # Load environment variables
 load_dotenv()

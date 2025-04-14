@@ -26,7 +26,7 @@ def get_match_status(match_id):
     url = f"{SUPABASE_URL}/rest/v1/matches?match_id=eq.{match_id}&select=match_time"
     response = requests.get(url, headers=headers)
 
-    print(f"Fetching match status for match {match_id}...")  # Debugging log
+    print(f"Fetching match status for match {match_id}...")  
     print("Response:", response.text)
 
     if response.status_code == 200 and response.json():
@@ -75,7 +75,7 @@ def submit_prediction(user_id, match_id, winner, top_scorer, top_wicket_taker):
 
     response = requests.post(url, json=data, headers=headers)
 
-    print(f"Submitting prediction for match {match_id}...")  # Debugging log
+    print(f"Submitting prediction for match {match_id}...") 
     print("Request Payload:", data)
     print("Response Status Code:", response.status_code)
     print("Response Text:", response.text)

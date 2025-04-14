@@ -30,11 +30,10 @@ def get_flashed_messages(request: FastAPIRequest, with_categories: bool = True) 
 templates.env.globals["get_flashed_messages"] = get_flashed_messages
 templates.env.globals["flash"] = flash
 
-# ✅ Missing function 1: Extract user_id from session
 def get_user_id(request: FastAPIRequest) -> str:
     return request.session.get("user_id")
 
-# ✅ Missing function 2: Parse match date
+
 def parse_match_date(date_string: str) -> datetime:
     """Parses match date string and converts it to IST timezone."""
     IST = pytz.timezone("Asia/Kolkata")

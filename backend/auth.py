@@ -50,7 +50,7 @@ def register_user(
 
     return RedirectResponse(
         url="/auth/login/", status_code=HTTP_302_FOUND
-    )  # ✅ Updated redirect
+    )  
 
 
 # ---------------------- [ Handle Login ] ----------------------
@@ -74,4 +74,4 @@ def login_user(request: Request, username: str = Form(...), password: str = Form
 
     return RedirectResponse(
         url="/", status_code=HTTP_302_FOUND
-    )  # ✅ Keeps user on home page
+    )  

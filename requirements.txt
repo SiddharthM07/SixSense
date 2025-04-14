@@ -10,3 +10,4 @@ starlette==0.46.1
 supabase==2.15.0
 uvicorn==0.34.0
 python-multipart
+prometheus-client

@@ -1,0 +1,13 @@
+apiVersion: monitoring.coreos.com/v1
+kind: ServiceMonitor
+metadata:
+  name: sixsense-monitor
+  labels:
+    app: sixsense
+spec:
+  selector:
+    matchLabels:
+      app: sixsense
+  endpoints:
+    - port: "5001"
+      path: /metrics

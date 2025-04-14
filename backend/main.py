@@ -8,6 +8,8 @@ from starlette.status import HTTP_302_FOUND
 from passlib.context import CryptContext
 from supabase import create_client
 from fastapi.templating import Jinja2Templates
+from prometheus_client import Counter, Gauge, generate_latest
+from fastapi.responses import PlainTextResponse
 
 # ---------------------- [ Paths Setup ] ----------------------
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
@@ -130,6 +132,17 @@ def get_leaderboard(request: Request):
         return JSONResponse(content={"error": "Internal Server Error"}, status_code=500)
 
 app.include_router(auth_router)
+
+#-----------------------[For Metric]------------------------------------
+REQUEST_COUNT = Counter("request_count", "Number of requests received")
+APP_HEALTH = Gauge("app_health", "Health status of the application")
+
+@app.get("/metrics", response_class=PlainTextResponse)
+def metrics():
+    # Update custom metrics
+    REQUEST_COUNT.inc()  
+    APP_HEALTH.set(1)    
+    return generate_latest()
 
 # ---------------------- [ Import Frontend Routes ] ----------------------
 from Frontend.routes import router as frontend_router
